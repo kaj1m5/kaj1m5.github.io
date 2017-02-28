@@ -19,3 +19,8 @@ footer{
 section{
     padding: 30px 20px;
 }
+
+tr#about-table{
+    color: white;
+    background-color: #337AB7;
+}
